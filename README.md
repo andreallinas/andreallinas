@@ -1,8 +1,9 @@
-<h1>Hi, I'm Andrea! <br/><a >Data Analyst</a>, <a href="https://www.linkedin.com/in/andreallinas/">
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h1>Hi, I'm Andrea! <br/><a >Data Analyst at the Orange County Fire Department</a> <a href="https://www.linkedin.com/in/andreallinas/">
+  
+<h2> Data Analytics Projects:</h2>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [linkedin]: https://www.linkedin.com/in/andreallinas/
 

@@ -8,7 +8,7 @@
 
 <h2> Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/andreallinas/
+[LinkedIn](https://www.linkedin.com/in/andreallinas/)
 
 <!--
 

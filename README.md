@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrea! <br/><a >Data Analyst at the Orange County Fire Department</a> <a href="https://www.linkedin.com/in/andreallinas/">
+<h1>Hi, I'm Andrea! <br/><a >Data Analyst at the Orange County Fire Department</a> 
   
 <h2> Data Analytics Projects:</h2>
 

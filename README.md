@@ -1,7 +1,8 @@
 <h1>Hi, I'm Andrea! <br/><a >Data Analyst at the Orange County Fire Department</a> 
   
 <h2> Data Analytics Projects:</h2>
-- US Election Dashboard: link 
+-[US Election Dashboard](https://github.com/andreallinas/USElectionDashboard)
+
 
 
 <h2> Connect with me:</h2>

@@ -6,7 +6,8 @@
 - <a href="https://github.com/andreallinas/BookSalesAnalysis">Book Sales Analysis - Ongoing</a>
 
 
-
+<h2> Other:</h2>
+- <a href="https://github.com/andreallinas/GradientDescentComparison">Gradient Descent Methods Comparison</a> 
 <h2> Connect with me:</h2>
 
 [LinkedIn](https://www.linkedin.com/in/andreallinas/)

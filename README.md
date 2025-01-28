@@ -7,7 +7,9 @@
 
 
 <h2> Other:</h2>
-- <a href="https://github.com/andreallinas/GradientDescentComparison">Gradient Descent Methods Comparison</a> 
+
+- <a href="https://github.com/andreallinas/GradientDescentComparison">Gradient Descent Methods Comparison</a>
+  
 <h2> Connect with me:</h2>
 
 [LinkedIn](https://www.linkedin.com/in/andreallinas/)

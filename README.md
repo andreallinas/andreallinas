@@ -1,4 +1,5 @@
-<h1>Hi, I'm Andrea! <br/><a >Data Analyst</a> 
+<h1>Hi, I'm Andrea! <br/>
+<h2>Currently a Data Analyst</h2> 
   
 <h2> Data Analytics Projects:</h2>
 

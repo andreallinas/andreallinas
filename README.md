@@ -2,6 +2,8 @@
   
 <h2> Data Analytics Projects:</h2>
 -[US Election Dashboard](https://github.com/andreallinas/USElectionsDashboard)
+-<a href="https://github.com/andreallinas/USElectionsDashboard">US Election Dashboard</a>
+
 
 
 

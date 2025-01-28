@@ -1,6 +1,7 @@
 <h1>Hi, I'm Andrea! <br/><a >Data Analyst</a> 
   
 <h2> Data Analytics Projects:</h2>
+
 - <a href="https://github.com/andreallinas/USElectionsDashboard">US Election Dashboard</a>
 - <a href="https://github.com/andreallinas/USElectionsDashboard">Book Sales Analysis - Ongoing</a>
 

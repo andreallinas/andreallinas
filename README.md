@@ -3,8 +3,6 @@
 <h2> Data Analytics Projects:</h2>
 
 - <a href="https://github.com/andreallinas/USElectionsDashboard">US Election Dashboard</a>
-- <a href="https://github.com/andreallinas/BookSalesAnalysis">Book Sales Analysis - Ongoing</a>
-
 
 <h2> Other:</h2>
 
